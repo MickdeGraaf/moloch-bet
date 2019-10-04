@@ -21,18 +21,25 @@ contract MolochBet {
     }
 
     struct Proposal {
+        address proposer; // the member who submitted the proposal
+        address applicant; // the applicant who wishes to become a member - this key will be used for withdrawals
+        uint256 sharesRequested; // the # of shares the applicant is requesting
         uint256 startingPeriod; // the period in which voting can start for this proposal
+        uint256 yesVotes; // the total number of YES votes for this proposal
+        uint256 noVotes; // the total number of NO votes for this proposal
         bool processed; // true only if the proposal has been processed
         bool didPass; // true only if the proposal passed
         bool aborted; // true only if applicant calls "abort" fn before end of voting period
+        uint256 tokenTribute; // amount of tokens offered as tribute
+        string details; // proposal details - could be IPFS hash, plaintext, or JSON
+        uint256 maxTotalSharesAtYesVote; // the maximum # of total shares encountered at a yes vote on this proposal
     }
 
     Moloch public moloch;
 
     modifier onlyQueuedProposals(uint256 _proposal) {
         require(_proposal < moloch.getProposalQueueLength(), "PROPOSAL_DOES_NOT_EXIST");
-        Proposal memory proposal = Moloch.Proposal(moloch.proposalQueue(_proposal));
-        require(moloch.getCurrentPeriod() < proposal.startingPeriod, "PROPOSAL_ALREADY_STARTED");
+        require(moloch.getCurrentPeriod() < getProposal(_proposal).startingPeriod, "PROPOSAL_ALREADY_STARTED");
         _;
     }
 
@@ -44,7 +51,7 @@ contract MolochBet {
 
 
     constructor(address _moloch) public {
-        moloch = Moloch(moloch);
+        moloch = Moloch(_moloch);
     }
 
     function buyYes(uint256 _proposal, address _token, uint256 _amount) onlyQueuedProposals(_proposal) external {
@@ -65,8 +72,7 @@ contract MolochBet {
         Market storage market = createOrGetMarket(_proposal, _market);
         market.yesToken.burn(msg.sender, _amount);
 
-        Moloch.Proposal memory proposal = moloch.proposalQueue(_proposal);
-        require(proposal.didPass, "PROPOSAL_DID_NOT_PASS");
+        require(getProposal(_proposal).didPass, "PROPOSAL_DID_NOT_PASS");
 
         uint256 payoutAmount = (market.totalYes + market.totalNo) * _amount / market.totalYes;
         IERC20(_market).transfer(msg.sender, payoutAmount);
@@ -76,7 +82,7 @@ contract MolochBet {
         Market storage market = createOrGetMarket(_proposal, _market);
         market.noToken.burn(msg.sender, _amount);
 
-        Moloch.Proposal memory proposal = moloch.proposalQueue(_proposal);
+        Proposal memory proposal = getProposal(_proposal);
         require(proposal.processed && !proposal.didPass, "PROPOSAL_PASSED");
 
         uint256 payoutAmount = (market.totalYes + market.totalNo) * _amount / market.totalNo;
@@ -85,8 +91,7 @@ contract MolochBet {
 
     function settleAborted(uint256 _proposal, address _market, uint256 _amount, bool _yes) external {
         Market storage market = createOrGetMarket(_proposal, _market);
-        Moloch.Proposal memory proposal = moloch.proposalQueue(_proposal);
-        require(proposal.aborted, "PROPOSAL_NOT_ABORTED");
+        require(getProposal(_proposal).aborted, "PROPOSAL_NOT_ABORTED");
         if(_yes) {
             market.yesToken.burn(msg.sender, _amount);
         } else {
@@ -97,6 +102,17 @@ contract MolochBet {
 
     function marketExists(uint256 _proposal, address _market) public view returns(bool) {
         return address(proposalMarkets[_proposal][_market].yesToken) != address(0);
+    }
+
+    function getProposalBytes(uint256 _proposal) public view returns(bytes memory proposalBytes)  {
+        bool success;
+        (success, proposalBytes) = address(moloch).staticcall(abi.encodeWithSignature("proposalQueue(uint256)", _proposal));
+        require(success, "STATIC_CALL_FAILED");
+        return proposalBytes;
+    }
+
+    function getProposal(uint256 _proposal) public view returns (Proposal memory) {
+        return abi.decode(getProposalBytes(_proposal), (Proposal));
     }
 
     function createMarket(uint256 _proposal, address _market) internal {

@@ -1,0 +1,1695 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/guildbank.json": {
+        "version": "7d47439d15f2d913d937d418f6c629699663a21d82107b7a9499c3f4bb8129aa"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/markettoken.json": {
+        "version": "4f81a30c227e925a43f3babbac82da6d69cb69d941e4496ac3f30d111981e3b4"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/moloch.json": {
+        "version": "b04630e93edba49a68f6f04b078d9e24838e17cc0be43a2eac5f4377969af294"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/molochbet.json": {
+        "version": "aca5c7132b2d507195ed1b192529f81f7f105be7b63f78a5fe3cd9b6ffc69dea"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/@ledgerhq/index.d.ts": {
+        "version": "ca4b6e91f27017fedab2d566fbc1fbbea7ac6b7c5e0547749ed284102e762ed2",
+        "signature": "ca4b6e91f27017fedab2d566fbc1fbbea7ac6b7c5e0547749ed284102e762ed2"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/async-child-process/index.d.ts": {
+        "version": "c43307788768f8471f55f8a3ce1185d21299baff7189043f5247ff63c4d2a7cc",
+        "signature": "c43307788768f8471f55f8a3ce1185d21299baff7189043f5247ff63c4d2a7cc"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai/index.d.ts": {
+        "version": "d82aa8e05f70fd3f2f42617ca016e188bce86d35622962dfc4822e3c281eac01",
+        "signature": "d82aa8e05f70fd3f2f42617ca016e188bce86d35622962dfc4822e3c281eac01"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-as-promised/index.d.ts": {
+        "version": "7e6dca237c9b522a787f33608c48e2ad1e09b63e3d58bafb1cf00a7224861b70",
+        "signature": "7e6dca237c9b522a787f33608c48e2ad1e09b63e3d58bafb1cf00a7224861b70"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-bignumber/index.d.ts": {
+        "version": "c2c032e2a90613f41270a2ca5ac717c534056d56064f16c83b736f7a5738a5d4",
+        "signature": "c2c032e2a90613f41270a2ca5ac717c534056d56064f16c83b736f7a5738a5d4"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/cli-format/index.d.ts": {
+        "version": "a797267ca54c468f89c9ee77a22ad0e2743700c87b0d80a4ebc352f62fda72ec",
+        "signature": "a797267ca54c468f89c9ee77a22ad0e2743700c87b0d80a4ebc352f62fda72ec"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/dirty-chai/index.d.ts": {
+        "version": "138ebe3b3ec78612f130a8251a9e11297d94eb33c93afcbf1f900bc3fc09ea29",
+        "signature": "138ebe3b3ec78612f130a8251a9e11297d94eb33c93afcbf1f900bc3fc09ea29"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/es6-promisify/index.d.ts": {
+        "version": "c8c12f8161cb3adb317253dff554c690c078bb6366beb9b3e78c5bb3ee794ae7",
+        "signature": "c8c12f8161cb3adb317253dff554c690c078bb6366beb9b3e78c5bb3ee794ae7"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-abi/index.d.ts": {
+        "version": "9d86b0468b2fb9b67c2b969f4aeac0562eeb453a16df2743eebb007ad6e95637",
+        "signature": "9d86b0468b2fb9b67c2b969f4aeac0562eeb453a16df2743eebb007ad6e95637"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts": {
+        "version": "4d0e3b8334392a2e0adef9caf867118678fb8f38da90d8003184debd62d30f3b",
+        "signature": "4d0e3b8334392a2e0adef9caf867118678fb8f38da90d8003184debd62d30f3b"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/assert.d.ts": {
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/buffer.d.ts": {
+        "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts": {
+        "version": "fbf717914b6e7d87d969b13c646b5d15dca61c9b89ea48e97a1513809445b003",
+        "signature": "fbf717914b6e7d87d969b13c646b5d15dca61c9b89ea48e97a1513809445b003"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/constants.d.ts": {
+        "version": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424",
+        "signature": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts": {
+        "version": "ab2319db789867778ccd5f2b5e6cd559e716d1cd3726b0e03724af463eddf78b",
+        "signature": "ab2319db789867778ccd5f2b5e6cd559e716d1cd3726b0e03724af463eddf78b"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dgram.d.ts": {
+        "version": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30",
+        "signature": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts": {
+        "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/domain.d.ts": {
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts": {
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts": {
+        "version": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882",
+        "signature": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts": {
+        "version": "d5470fad800f025be0c4bd1b14c013ea5b4aeec90e53ab0e2703a8fe01f292b3",
+        "signature": "d5470fad800f025be0c4bd1b14c013ea5b4aeec90e53ab0e2703a8fe01f292b3"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http2.d.ts": {
+        "version": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d",
+        "signature": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/inspector.d.ts": {
+        "version": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts": {
+        "version": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4",
+        "signature": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/os.d.ts": {
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/process.d.ts": {
+        "version": "0e0d58f5e90c0a270dac052b9c5ad8ccdfc8271118c2105b361063218d528d6e",
+        "signature": "0e0d58f5e90c0a270dac052b9c5ad8ccdfc8271118c2105b361063218d528d6e"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts": {
+        "version": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e",
+        "signature": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts": {
+        "version": "e1045d32a6a59dbcbe0ed2edddc6568221acc299ac68d92284153e7c00b39d51",
+        "signature": "e1045d32a6a59dbcbe0ed2edddc6568221acc299ac68d92284153e7c00b39d51"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/repl.d.ts": {
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts": {
+        "version": "735c23d34f165346d39c45817cb2557adf5548676687e6afbbf54a6e96731dec",
+        "signature": "735c23d34f165346d39c45817cb2557adf5548676687e6afbbf54a6e96731dec"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "signature": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts": {
+        "version": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a",
+        "signature": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts": {
+        "version": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007",
+        "signature": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts": {
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts": {
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/v8.d.ts": {
+        "version": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725",
+        "signature": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts": {
+        "version": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562",
+        "signature": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "signature": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/zlib.d.ts": {
+        "version": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b",
+        "signature": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
+        "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts": {
+        "version": "b5c402b51d6bc805d447d1824fda6dbf299b36c8941e481f1cf0816080b6d44e",
+        "signature": "b5c402b51d6bc805d447d1824fda6dbf299b36c8941e481f1cf0816080b6d44e"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-util/index.d.ts": {
+        "version": "1a6e1b4c1362f0cebf57f9ebda51eda94d94e86a6820913b2b049323daca327c",
+        "signature": "1a6e1b4c1362f0cebf57f9ebda51eda94d94e86a6820913b2b049323daca327c"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-vm/index.d.ts": {
+        "version": "a0815185cedd1cc62720c8552397c25b3462d01b09193a6f97833b308bf5d795",
+        "signature": "a0815185cedd1cc62720c8552397c25b3462d01b09193a6f97833b308bf5d795"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts": {
+        "version": "173ce0a0632364bfef4d7ad73f7937df8b76ca8100ebe3328b3f1e71976910c3",
+        "signature": "173ce0a0632364bfef4d7ad73f7937df8b76ca8100ebe3328b3f1e71976910c3"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts": {
+        "version": "5bf9367f79fe47e6712b57cd37bcc2eee64992df6aa0de902b66e7095537b063",
+        "signature": "5bf9367f79fe47e6712b57cd37bcc2eee64992df6aa0de902b66e7095537b063"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ganache-core/index.d.ts": {
+        "version": "70d2dcaa17b19c52827b557dea435776b800e06ace07b0fb0cdccfed8f496b18",
+        "signature": "70d2dcaa17b19c52827b557dea435776b800e06ace07b0fb0cdccfed8f496b18"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/json-rpc-error/index.d.ts": {
+        "version": "316ef85d670352c2d3fc17c1a5f074b4112647b3c2a1d8f60c4ee1af35fe13f9",
+        "signature": "316ef85d670352c2d3fc17c1a5f074b4112647b3c2a1d8f60c4ee1af35fe13f9"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/keccak/index.d.ts": {
+        "version": "0a5b1b3146d36a4592770fe4e8b8cdbbf7fee50e1b293e0e4cf67d1e64d05106",
+        "signature": "0a5b1b3146d36a4592770fe4e8b8cdbbf7fee50e1b293e0e4cf67d1e64d05106"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/openapi-schema-validation/index.d.ts": {
+        "version": "f29401e2efabcc8928fb116bfb7c5fe9898d03b4396a7d00083cf9a1815286df",
+        "signature": "f29401e2efabcc8928fb116bfb7c5fe9898d03b4396a7d00083cf9a1815286df"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/promisify-child-process/index.d.ts": {
+        "version": "31eeeb3e245bda88aadece2e3dc8ff99112c7220a87c214d535d6e1753056b42",
+        "signature": "31eeeb3e245bda88aadece2e3dc8ff99112c7220a87c214d535d6e1753056b42"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/publish-release/index.d.ts": {
+        "version": "158d815e92eb54f6e233390049de3637a6e1f1a62e6b8d9aa1ad897ba5de11db",
+        "signature": "158d815e92eb54f6e233390049de3637a6e1f1a62e6b8d9aa1ad897ba5de11db"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-highlight/index.d.ts": {
+        "version": "2cd5bedc7abe767157ca4ab38778934ab9d3d086b3185fc83910a018d4a69f02",
+        "signature": "2cd5bedc7abe767157ca4ab38778934ab9d3d086b3185fc83910a018d4a69f02"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/global.d.ts": {
+        "version": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314",
+        "signature": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/csstype/index.d.ts": {
+        "version": "599c67cf56a35a8a7bee5bcd877dece4cb71553efb763ebf1050c6987acfaefc",
+        "signature": "599c67cf56a35a8a7bee5bcd877dece4cb71553efb763ebf1050c6987acfaefc"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/index.d.ts": {
+        "version": "3d6c8c8757ce8d19688336bbb5261f5e86312243782204c337a2e58a707beb5d",
+        "signature": "3d6c8c8757ce8d19688336bbb5261f5e86312243782204c337a2e58a707beb5d"
+      },
+      "/users/mickdegraaf/moloch-bet/node_modules/popper.js/index.d.ts": {
+        "version": "1a40bacdc68411e7838f83a4532ca17c2a0851c504e4e57e69bd7f59d079a2de",
+        "signature": "1a40bacdc68411e7838f83a4532ca17c2a0851c504e4e57e69bd7f59d079a2de"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-popper/index.d.ts": {
+        "version": "2f6d8bedf081c4609028112fa777f5bf01014639ac16b1950a91fe2dafeef6af",
+        "signature": "2f6d8bedf081c4609028112fa777f5bf01014639ac16b1950a91fe2dafeef6af"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-tooltip/index.d.ts": {
+        "version": "b0e680342c962cc7c15278f8ec1d8b5be480d1bc55af9267a3027fd7dac27122",
+        "signature": "b0e680342c962cc7c15278f8ec1d8b5be480d1bc55af9267a3027fd7dac27122"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-typist/index.d.ts": {
+        "version": "8db0d0f293352db1093c7304e244e866e54df003e135f1e6a456e7a1969dc419",
+        "signature": "8db0d0f293352db1093c7304e244e866e54df003e135f1e6a456e7a1969dc419"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/request-promise-native/index.d.ts": {
+        "version": "04f021c6254ca5164aaca1f1aba8f509b18d32afbb0f2d8027316b6424706477",
+        "signature": "04f021c6254ca5164aaca1f1aba8f509b18d32afbb0f2d8027316b6424706477"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/rollbar/index.d.ts": {
+        "version": "83e1b790a06e3a6983fb0da3a077eda071049f52200e7da9fbb7db244ced43b8",
+        "signature": "83e1b790a06e3a6983fb0da3a077eda071049f52200e7da9fbb7db244ced43b8"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-diff/index.d.ts": {
+        "version": "fdeb649e4474183c8cd385c5fc46380f43b3f612c625828bdbffaa45fec49ba6",
+        "signature": "fdeb649e4474183c8cd385c5fc46380f43b3f612c625828bdbffaa45fec49ba6"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-sort/index.d.ts": {
+        "version": "3935d73e1eec7361504ff92baa5b94beb5d83fe593c8341cf331caacbc100e1c",
+        "signature": "3935d73e1eec7361504ff92baa5b94beb5d83fe593c8341cf331caacbc100e1c"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/solc/index.d.ts": {
+        "version": "b1bb8fee741ef8db1ebb0e942c2aab40d07c1a962ab1f916ca2659d3e8775d6c",
+        "signature": "b1bb8fee741ef8db1ebb0e942c2aab40d07c1a962ab1f916ca2659d3e8775d6c"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/to-snake-case/index.d.ts": {
+        "version": "ac62b58979e5916751dfa486e296dcee0f9bfbc6a6f9f21eadaa5026b6935f96",
+        "signature": "ac62b58979e5916751dfa486e296dcee0f9bfbc6a6f9f21eadaa5026b6935f96"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/truffle-hdwalet-provider/index.d.ts": {
+        "version": "54edd2cf473487407c5f18770e0f121de9b604dfabb16b2ad09673b7da55ef3a",
+        "signature": "54edd2cf473487407c5f18770e0f121de9b604dfabb16b2ad09673b7da55ef3a"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3/index.d.ts": {
+        "version": "db97498d702f9c0c6d8a7d62dd841c4f01cedb6981da1bbe1d0c5f592e256934",
+        "signature": "db97498d702f9c0c6d8a7d62dd841c4f01cedb6981da1bbe1d0c5f592e256934"
+      },
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3-eth-abi/index.d.ts": {
+        "version": "56265e5d20f65115305754d69de9b67afde56b6305f248e222773a311a18e62b",
+        "signature": "56265e5d20f65115305754d69de9b67afde56b6305f248e222773a311a18e62b"
+      }
+    },
+    "options": {
+      "outDir": "/Users/mickdegraaf/moloch-bet/packages/contracts/lib/",
+      "baseUrl": "/Users/mickdegraaf/moloch-bet/packages/contracts",
+      "rootDir": "/Users/mickdegraaf/moloch-bet/packages/contracts",
+      "lib": [
+        "lib.es2016.d.ts",
+        "lib.es2018.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "typeRoots": [
+        "/Users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@types",
+        "/Users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types"
+      ],
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "moduleResolution": 2,
+      "module": 1,
+      "sourceMap": true,
+      "declaration": true,
+      "composite": true,
+      "resolveJsonModule": true,
+      "configFilePath": "/Users/mickdegraaf/moloch-bet/packages/contracts/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/guildbank.json": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/markettoken.json": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/moloch.json": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/molochbet.json": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/@ledgerhq/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/async-child-process/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-as-promised/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-bignumber/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/cli-format/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/dirty-chai/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/es6-promisify/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-abi/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/assert.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/buffer.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/cluster.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/console.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/constants.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dgram.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/domain.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http2.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/https.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/inspector.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/module.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/os.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/path.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/process.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/punycode.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/repl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/timers.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/trace_events.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/v8.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/zlib.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/base.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/assert.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/buffer.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/cluster.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/console.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/constants.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dgram.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/domain.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http2.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/https.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/inspector.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/module.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/os.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/path.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/process.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/punycode.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/repl.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/string_decoder.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/timers.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/trace_events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/v8.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/worker_threads.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/zlib.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/base.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-util/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-vm/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ganache-core/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/json-rpc-error/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/keccak/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/openapi-schema-validation/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/promisify-child-process/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/publish-release/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-highlight/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/global.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/csstype/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/prop-types/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/csstype/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/prop-types/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/react/global.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/popper.js/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-popper/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/react/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/popper.js/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-tooltip/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-typist/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/request-promise-native/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/rollbar/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-diff/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-sort/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/solc/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/to-snake-case/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/truffle-hdwalet-provider/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts",
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3-eth-abi/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/@ledgerhq/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/async-child-process/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-as-promised/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-bignumber/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/cli-format/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/dirty-chai/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/es6-promisify/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-abi/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/assert.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/base.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/assert.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/buffer.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/cluster.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/console.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/constants.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dgram.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/domain.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http2.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/https.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/inspector.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/module.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/os.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/path.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/process.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/punycode.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/repl.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/string_decoder.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/timers.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/trace_events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/v8.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/worker_threads.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/zlib.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/base.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-vm/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-util/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/buffer.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/cluster.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/console.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/constants.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/https.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http2.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dgram.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/process.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/domain.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/zlib.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/v8.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/repl.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/inspector.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/module.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/os.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/path.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/punycode.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/timers.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/trace_events.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3-eth-abi/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts",
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/truffle-hdwalet-provider/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/to-snake-case/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/solc/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-sort/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-diff/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/rollbar/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/request-promise-native/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-typist/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-tooltip/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-popper/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/react/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/popper.js/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/popper.js/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/csstype/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/prop-types/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/react/global.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/prop-types/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/csstype/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/global.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-highlight/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/publish-release/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/promisify-child-process/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/openapi-schema-validation/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/keccak/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/json-rpc-error/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ganache-core/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts": [
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+        "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/users/mickdegraaf/.config/yarn/global/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/guildbank.json",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/markettoken.json",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/moloch.json",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/build/artifacts/molochbet.json",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/@ledgerhq/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/async-child-process/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-as-promised/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/chai-bignumber/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/cli-format/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/dirty-chai/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/es6-promisify/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-abi/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/globals.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/assert.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/async_hooks.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/buffer.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/child_process.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/cluster.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/console.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/constants.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/crypto.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dgram.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/dns.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/domain.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/events.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/fs.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/http2.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/https.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/inspector.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/module.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/net.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/os.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/path.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/perf_hooks.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/process.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/punycode.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/querystring.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/readline.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/repl.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/stream.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/string_decoder.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/timers.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tls.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/trace_events.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/tty.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/url.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/util.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/v8.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/vm.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/worker_threads.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/zlib.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/base.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/util.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/globals.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/bn.js/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-util/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ethereumjs-vm/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/bignumber.js/bignumber.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/ethereum-types/lib/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/ganache-core/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/json-rpc-error/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/keccak/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/openapi-schema-validation/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/promisify-child-process/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/publish-release/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-highlight/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/global.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/csstype/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/prop-types/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/@types/react/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/node_modules/popper.js/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-popper/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-tooltip/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/react-typist/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/request-promise-native/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/rollbar/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-diff/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/semver-sort/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/solc/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/to-snake-case/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/truffle-hdwalet-provider/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3/index.d.ts",
+      "/users/mickdegraaf/moloch-bet/packages/contracts/node_modules/@0x/typescript-typings/types/web3-eth-abi/index.d.ts"
+    ]
+  },
+  "version": "3.5.3"
+}

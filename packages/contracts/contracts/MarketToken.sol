@@ -20,9 +20,9 @@ contract MarketToken is ERC777 {
     }
 
     function mint(address _receiver, uint256 _amount) external onlyMolochBet {
-        super._mint(address(this), _receiver, _amount, "", "");
+        super._mint(address(this), _receiver, _amount, bytes(""), bytes(""));
     }
     function burn(address _from, uint256 _amount) external onlyMolochBet {
-        super._burn(address(this), _from, _amount, "", "");
+        super._burn(address(this), _from, _amount, bytes(""), bytes(""));
     }
 }
